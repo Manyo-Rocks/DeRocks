@@ -1,0 +1,57 @@
+:root {
+  --mainColor: rgb(255, 253, 0);
+}
+
+.btn{
+  background-color: var(--mainColor);
+ 
+}
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+.content {
+  /*position: fixed;*/
+  bottom: 0;
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+.title{
+  color: var(--mainColor);
+  border-bottom: 2px solid var(--maincolor);
+}
+.btn2{
+  width: 300px;
+  background-color: var(--mainColor);
+  padding: 1rem;
+  border-radius: 20%;
+  border: 1px solid var(--mainColor);
+  
+}
+.col{
+  padding: 1rem;
+}
+.container{
+  margin-top: 2rem;
+  
+}
+.sub-section2{
+  background-color: rgb(16, 16, 31);
+  text-align: center;
+  padding: 2rem;
+}
+.work{
+  color: var(--mainColor);
+  border-bottom: 1px solid yellow;
+}
+.team-img{
+  margin-top: 2rem;
+}
+.sub-section3{
+  text-align: center;
+}
