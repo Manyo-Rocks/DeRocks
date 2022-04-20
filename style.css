@@ -2,9 +2,8 @@
   --mainColor: rgb(255, 253, 0);
 }
 
-.btn{
+.btn {
   background-color: var(--mainColor);
- 
 }
 #myVideo {
   position: fixed;
@@ -21,37 +20,35 @@
   padding: 20px;
   text-align: center;
 }
-.title{
+.title {
   color: var(--mainColor);
   border-bottom: 2px solid var(--maincolor);
 }
-.btn2{
+.btn2 {
   width: 300px;
   background-color: var(--mainColor);
   padding: 1rem;
   border-radius: 20%;
   border: 1px solid var(--mainColor);
-  
 }
-.col{
+.col {
   padding: 1rem;
 }
-.container{
+.container {
   margin-top: 2rem;
-  
 }
-.sub-section2{
+.sub-section2 {
   background-color: rgb(16, 16, 31);
   text-align: center;
   padding: 2rem;
 }
-.work{
+.work {
   color: var(--mainColor);
   border-bottom: 1px solid yellow;
 }
-.team-img{
+.team-img {
   margin-top: 2rem;
 }
-.sub-section3{
+.sub-section3 {
   text-align: center;
 }
